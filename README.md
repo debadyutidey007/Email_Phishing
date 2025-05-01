@@ -9,11 +9,11 @@ The script performs the following:
 4. Logs all actions to both the console and a file (phishing_simulation.log).
 
 # Features
-(i) *Email Template*: A responsive HTML email with FlipKart branding, including a logo, verification button, privacy policy, and unsubscribe links.\n
-(ii) *Login Page*: A realistic login page with a navbar, gradient background, and animated form fields styled to match FlipKart's design.\n
-(iii) *Logging*: Captures credentials in plain text and logs actions with timestamps.\n
-(iv) *Configuration*: Easily customizable URLs, company name, and server settings.\n
-(v) *Security*: Simulates a phishing attack to educate users about recognizing suspicious emails and websites.\n
+(i) *Email Template*: A responsive HTML email with FlipKart branding, including a logo, verification button, privacy policy, and unsubscribe links.
+(ii) *Login Page*: A realistic login page with a navbar, gradient background, and animated form fields styled to match FlipKart's design.
+(iii) *Logging*: Captures credentials in plain text and logs actions with timestamps.
+(iv) *Configuration*: Easily customizable URLs, company name, and server settings.
+(v) *Security*: Simulates a phishing attack to educate users about recognizing suspicious emails and websites.
 
 # Prerequisites
 i. Python 3.6+
